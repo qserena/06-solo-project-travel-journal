@@ -22,7 +22,7 @@ export default [
 	{
 		title: 'Alpes-Maritimes',
 		location: 'France',
-		googleMapsUrl: '',
+		googleMapsUrl: 'https://maps.app.goo.gl/g9VwHmyqL5EtnBLG8',
 		startDate: '31 Jul, 2006',
 		endDate: '6 Aug, 2006',
 		description: '.',
@@ -31,7 +31,7 @@ export default [
 	{
 		title: 'Ljugarn',
 		location: 'Sweden',
-		googleMapsUrl: '',
+		googleMapsUrl: 'https://maps.app.goo.gl/Y6oNCDNuxTPg6dKM7',
 		startDate: '27 Jul, 2008',
 		endDate: '3 Aug, 2008',
 		description: '.',
@@ -40,7 +40,7 @@ export default [
 	{
 		title: 'Rians',
 		location: 'France',
-		googleMapsUrl: '',
+		googleMapsUrl: 'https://maps.app.goo.gl/1rC8SAi8fNwN3jtv7',
 		startDate: '6 Jul, 2009',
 		endDate: '14 Jul, 2009',
 		description: '.',
@@ -49,7 +49,7 @@ export default [
 	{
 		title: 'Stonehenge',
 		location: 'England',
-		googleMapsUrl: '',
+		googleMapsUrl: 'https://maps.app.goo.gl/NeQsBQoPB1AYLSv17',
 		startDate: '20 Jul, 2011',
 		endDate: '25 Jul, 2011',
 		description: '.',
@@ -58,7 +58,7 @@ export default [
 	{
 		title: 'Parga',
 		location: 'Greece',
-		googleMapsUrl: '',
+		googleMapsUrl: 'https://maps.app.goo.gl/QBFMQczbDFKTMbmP7',
 		startDate: '1 Aug, 2013',
 		endDate: '8 Aug, 2013',
 		description: '.',
