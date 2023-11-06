@@ -25,7 +25,8 @@ export default [
 		googleMapsUrl: 'https://maps.app.goo.gl/g9VwHmyqL5EtnBLG8',
 		startDate: '31 Jul, 2006',
 		endDate: '6 Aug, 2006',
-		description: '.',
+		description:
+			'Alpes-Maritimes is a french county (department) in the south-east part of France. The main town is Nice. It offers sublime landscapes, preserved nature and cultural heritage. The area is perfect for cycling, with over 150 climbs.',
 		image: '06-alpes-maritime.png',
 	},
 	{
@@ -34,7 +35,8 @@ export default [
 		googleMapsUrl: 'https://maps.app.goo.gl/Y6oNCDNuxTPg6dKM7',
 		startDate: '27 Jul, 2008',
 		endDate: '3 Aug, 2008',
-		description: '.',
+		description:
+			'Ljugarn is the oldest seaside resort on the island of Gotland, developed already in the late 1800s when sea bathing became popular in Sweden and the rest of Europe. It is considered a popular and quiet holiday village for tourists.',
 		image: '08-gotland.png',
 	},
 	{
@@ -43,7 +45,8 @@ export default [
 		googleMapsUrl: 'https://maps.app.goo.gl/1rC8SAi8fNwN3jtv7',
 		startDate: '6 Jul, 2009',
 		endDate: '14 Jul, 2009',
-		description: '.',
+		description:
+			'Rians is a provençal village in the Upper Var located north east of the Montagne Sainte-Victoire. The main employment is agriculture, predominantly wine. The Town is made up of concentric medieval streets that work their way down the hill.',
 		image: '09-provence.png',
 	},
 	{
@@ -52,7 +55,8 @@ export default [
 		googleMapsUrl: 'https://maps.app.goo.gl/NeQsBQoPB1AYLSv17',
 		startDate: '20 Jul, 2011',
 		endDate: '25 Jul, 2011',
-		description: '.',
+		description:
+			'Stonehenge is a prehistoric stone circle monument, cemetery, and archaeological site located on Salisbury Plain, about 13 km north of Salisbury, Wiltshire, England.',
 		image: '11-stonehenge.png',
 	},
 	{
@@ -61,7 +65,8 @@ export default [
 		googleMapsUrl: 'https://maps.app.goo.gl/QBFMQczbDFKTMbmP7',
 		startDate: '1 Aug, 2013',
 		endDate: '8 Aug, 2013',
-		description: '.',
+		description:
+			'Parga is a very popular holiday destination in the western side of Greece. It gets very lively in summer due to the wonderful beaches and the natural beauty of the region.',
 		image: '13-greece.png',
 	},
 ]
