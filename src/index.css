@@ -104,6 +104,10 @@ hr {
 }
 
 @media (max-width: 450px) {
+	section {
+		padding: 0 20px;
+	}
+
 	.card {
 		flex-direction: column;
 		justify-content: start;
