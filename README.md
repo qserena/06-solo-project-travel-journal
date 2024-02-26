@@ -1,8 +1,21 @@
-# React + Vite
+# My Travel Journal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+A Digital Business Card built of React components representing the different parts of the card.
 
-Currently, two official plugins are available:
+Featuring social media icons in svg format in the Footer at the bottom of the page.
+<br/>
+<br/>
+<img src="digital-business-card.png" alt="Screenshot." width="400px"/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Live link
+The card is deployed here:
+[https://toms-card.netlify.app](https://toms-card.netlify.app)
+
+Please feel free to visit the site!
