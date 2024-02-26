@@ -4,8 +4,6 @@ export default function Card({ item, imageDirectory } = props) {
 	imageDirectory = ``
 	const image = `${imageDirectory}${item.image}`
 	const dateText = `${item.startDate} - ${item.endDate}`
-	console.log(image)
-	console.log(`${imageDirectory}landscape-${item.image}`)
 	return (
 		<div>
 			<div className="card">
