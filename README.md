@@ -1,11 +1,9 @@
 # My Travel Journal
 
 ## Description
-This site reads the travel destination from an array of objects - each object represents a travel destination.
+This site reads the travel destination from an array of objects - each object represents a travel destination. React JSX elements are dynamically created from the array to be presented on the page. A Google Maps link is provided for each destination.
 
-React JSX elements are dynamically created from the array to be presented on the page. A Google Maps link is provided for each destination.
-
-The actual contents are from some of my own travels.
+The actual content is from some of my own travels.
 <br/>
 <br/>
 <img src="travel-journal.png" alt="Screenshot." width="600px"/>
