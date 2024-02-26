@@ -6,7 +6,7 @@ A Digital Business Card built of React components representing the different par
 Featuring social media icons in svg format in the Footer at the bottom of the page.
 <br/>
 <br/>
-<img src="digital-business-card.png" alt="Screenshot." width="400px"/>
+<img src="travel-journal.png" alt="Screenshot." width="400px"/>
 
 ## Technologies
 - HTML
