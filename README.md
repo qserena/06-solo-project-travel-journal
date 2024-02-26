@@ -1,9 +1,11 @@
 # My Travel Journal
 
 ## Description
-A Digital Business Card built of React components representing the different parts of the card.
+This site reads the travel destination from an array of objects - each object represents a travel destination.
 
-Featuring social media icons in svg format in the Footer at the bottom of the page.
+React JSX elements are dynamically created from the array to be presented on the page. A Google Maps link is provided for each destination.
+
+The actual contents are from some of my own travels.
 <br/>
 <br/>
 <img src="travel-journal.png" alt="Screenshot." width="600px"/>
@@ -15,7 +17,7 @@ Featuring social media icons in svg format in the Footer at the bottom of the pa
 - React
 
 ## Live link
-The card is deployed here:
+The Travel Journal is deployed here:
 [https://serenander-travel-journal.netlify.app](https://serenander-travel-journal.netlify.app)
 
 Please feel free to visit the site!
