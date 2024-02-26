@@ -1,7 +1,7 @@
 # My Travel Journal
 
 ## Description
-This site reads the travel destinations from an array of objects located in file data.js - each object representing a travel destination. React JSX elements are dynamically created from the array to be presented on the page. A Google Maps link is provided for each destination.
+This site reads the travel destinations from an array of objects located in file data.js - Each object representing a travel destination. React JSX elements are dynamically created from the array to be presented on the page. A Google Maps link is provided for each destination.
 
 The actual content is from some of my own travels.
 <br/>
