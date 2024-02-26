@@ -46,7 +46,7 @@ export default [
 		startDate: '6 Jul, 2009',
 		endDate: '14 Jul, 2009',
 		description:
-			'Rians is a provençal village in the Upper Var located north east of the Montagne Sainte-Victoire. The main employment is agriculture, predominantly wine. The Town is made up of concentric medieval streets that work their way down the hill.',
+			'Rians is a village in the north east of the Montagne Sainte-Victoire in Provence in south-eastern France. The main employment is agriculture, predominantly wine. The Town is made up of concentric medieval streets that work their way down the hill.',
 		image: '09-provence.png',
 	},
 	{
