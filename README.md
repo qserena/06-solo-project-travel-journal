@@ -8,7 +8,7 @@ A Google Maps link is provided for each destination.
 The actual content is from my own travels.
 <br/>
 <br/>
-<img src="travel-journal.png" alt="Screenshot." width="600px"/>
+<img src="travel-journal.png" alt="Screenshot." width="400px"/>
 
 ## Technologies
 - HTML
