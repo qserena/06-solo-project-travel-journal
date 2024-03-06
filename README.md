@@ -15,7 +15,7 @@ The actual content is from my own travels.
 - React
 
 ## Live link
-The Travel Journal is deployed here:
+My Travel Journal is deployed here:
 [https://serenander-travel-journal.netlify.app](https://serenander-travel-journal.netlify.app)
 
 Please feel free to visit the site!
