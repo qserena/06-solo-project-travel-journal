@@ -1,7 +1,7 @@
 # My Travel Journal
 
 ## Description
-This site is an implementation of data-driven React. The travel destinations are read from an array of objects located in file data.js - Each object represents a travel destination. React JSX elements are created from the array and then presented on the page. 
+This site is an implementation of a static, but data-driven React page. The travel destinations are read from an array of objects located in file data.js - Each object represents a travel destination. React JSX elements are created from the array and then presented on the page. 
 
 A Google Maps link is provided with each destination.
 
