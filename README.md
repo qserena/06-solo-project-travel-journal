@@ -5,7 +5,7 @@ This site is an implementation of a static, but data-driven, React page. The tra
 
 A Google Maps link is provided with each destination.
 
-The actual content is from my own travels.
+The actual content is from some of my own travels.
 <br/>
 <br/>
 <img src="travel-journal.png" alt="Screenshot." width="400px"/>
